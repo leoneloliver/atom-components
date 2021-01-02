@@ -45,6 +45,10 @@ body {
   min-height: 230px;
   transition: all 0.5s ease;
 }
+.fullgallery-container-x {
+  box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
+  padding: 30px 0px;
+}
 .fullgallery-container:hover {
   /* opacity: 1; */
   transition: all 0.5s ease;
