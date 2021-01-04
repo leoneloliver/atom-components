@@ -24,7 +24,6 @@ export default function App() {
           <div className="container">
             <h2>Grid Example</h2>
             <Grid custom category="clothes girls" />
-            <div>...</div>
           </div>
         </section>
         <section className="container">
